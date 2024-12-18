@@ -3,6 +3,9 @@
 body{
     font-family: "Inter", sans-serif;
     overflow-x: hidden;
+    @import 'swiper/css';
+@import 'swiper/css/navigation';
+@import 'swiper/css/pagination';
 }
 
 header{
